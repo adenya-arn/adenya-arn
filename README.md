@@ -1,10 +1,66 @@
-- 👋 Hi, I’m @adenya-arn
-- 👀 I’m interested in being a software developer 
-- 🌱 I’m currently learning computer science and statistics
-- 🌱 I have working knowledge on Python, Django web frameworks and Django rest framework
-- 💞️ I’m looking to collaborate on coding and learning new things
-- 📫 How to reach me aadenya7@gmail.com
-<!---
-adenya-arn/adenya-arn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Arnold Adenya 👋
+
+I'm a **Full-Stack Software Developer** passionate about building modern, scalable web applications and continuously improving my craft through hands-on projects.
+
+After completing my degree in **Statistics and Computer Science**, I've focused on learning software engineering by building everything from interactive frontend applications to full-stack platforms with authentication, databases, and RESTful APIs.
+
+## 🚀 What I'm Working On
+
+* Building full-stack web applications
+* Strengthening my software engineering fundamentals
+* Expanding my portfolio with production-quality projects
+* Exploring modern backend architecture and scalable application design
+
+## 💻 Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript (ES6+)
+* React
+* Vite
+
+### Backend
+
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
+* Prisma ORM
+
+### Databases
+
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* Linux
+* VS Code
+* Postman
+* Jest
+
+## 🌱 Currently Learning
+
+I'm continuously improving my understanding of:
+
+* Software Architecture
+* Performance Optimization
+* Testing
+* System Design
+* Modern React Patterns
+* Backend Development
+
+## 🤝 Let's Connect
+
+📫 **Email:** aadenya7@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/arnold-adenya
+
+🌐 **Portfolio:** https://portfolio-three-virid-tu9v6ex8mj.vercel.app/
+
+---
+
+> *"Every project is an opportunity to learn something new and write better software than yesterday."*
