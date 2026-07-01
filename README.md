@@ -57,7 +57,7 @@ I'm continuously improving my understanding of:
 
 📫 **Email:** aadenya7@gmail.com
 
-💼 **LinkedIn:** https://linkedin.com/in/arnold-adenya
+💼 **LinkedIn:** https://www.linkedin.com/in/arnold-adenya/
 
 🌐 **Portfolio:** https://arnoldsportfolio.vercel.app/
 
