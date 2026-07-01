@@ -59,7 +59,7 @@ I'm continuously improving my understanding of:
 
 💼 **LinkedIn:** https://linkedin.com/in/arnold-adenya
 
-🌐 **Portfolio:** https://portfolio-three-virid-tu9v6ex8mj.vercel.app/
+🌐 **Portfolio:** https://arnoldsportfolio.vercel.app/
 
 ---
 
